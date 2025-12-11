@@ -3,8 +3,8 @@ body {
 }
 
 .header {
-    font-family: Outfit;
-    font-size: 11px;
+    font-family: Outfit; Serif;
+    font-size: 0.7em;
     text-align: end; 
     ;
 }
@@ -27,15 +27,15 @@ main {
 }
 
 .title {
-    font-family: Outfit;
+    font-family: Outfit; Serif;
     font-weight: bold;
     text-align: center;
     margin: 10px;
 }
 
 .description {
-    font-family: Outfit;
-    font-size: 11px;
+    font-family: Outfit;Serif;
+    font-size: 0.6875em;
     max-width: 190px;
     color: hsl(216, 15%, 48%);
     text-align: center;
@@ -43,7 +43,7 @@ main {
     padding-bottom: 20px;
 }
 
-#QRcode {
+.QRcode {
     width: 190px;
     margin-top: 10px;
     border-radius: 8px;
